@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 2.6)
 add_executable(qsort qsort.c)
 set(CMAKE_C_FLAGS "-std=c99")
 
